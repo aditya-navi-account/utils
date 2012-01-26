@@ -1,4 +1,6 @@
-* gitutils folder contains git related utilities
+## gitutils folder 
+
+* contains git related utilities
   * gitpb.sh 
     * Does the following
       git push -u origin current_git_branch_name
@@ -11,4 +13,7 @@
          The sha hashes can be cherry picked or they can also be reverted.
     * Warning: If you have solved merge (or rebase) conflicts and are gonna push then 
          beware of using commits from the backup branch because the backup branch may re-introduce previous conflicts.
-* emacs folder currently holds emacs config files for Mac OS X and Ubuntu Linux.
+
+## emacs folder 
+
+* currently holds emacs config files for Mac OS X and Ubuntu Linux.
