@@ -13,3 +13,5 @@
 
         3. Warning: If you have solved merge (or rebase) conflicts and are gonna push then beware of using commits from the backup branch
            because the backup branch may re-introduce previous conflicts.
+
+2. emacs folder currently holds emacs config files for Mac OS X and Ubuntu Linux.
